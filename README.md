@@ -35,7 +35,7 @@ tic-tac-toe/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com//tic-tac-toe.git
 ```
 
 2. Navigate to the project directory:
@@ -81,12 +81,9 @@ No additional dependencies or installations are required.
 
 Add screenshots of the game here:
 
-```
-screenshots/game-start.png
-screenshots/winner-screen.png
-screenshots/draw-screen.png
-```
-
+<img width="1911" height="1037" alt="image" src="https://github.com/user-attachments/assets/e968ba1d-4868-4800-b937-a90e097febe9" />
+<img width="1911" height="1037" alt="image" src="https://github.com/user-attachments/assets/76feb60f-074f-43f1-8e40-580425051433" />
+<img width="900" height="821" alt="image" src="https://github.com/user-attachments/assets/b104c6fc-6fda-4124-bf9f-44ac8927d330" />
 ## Author
 
 Mayank Tiwari
